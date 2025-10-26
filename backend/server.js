@@ -3,7 +3,9 @@ const express = require("express");
 const cors = require("cors");
 
 const allowedOrigins = [
-  'http://localhost:3000', // For local development
+  'http://localhost:3000', 
+  // For local development
+  'https://sdgsbl-oaq2ordt7-pandeysakshii277-5369s-projects.vercel.app'
   // We will add your Vercel URL here later!
 ];
 
